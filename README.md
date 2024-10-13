@@ -2,4 +2,4 @@
 
 This is a ReactJS App built with NextJS and styled with CSS. It is a basic quiz app deployed on Vercel.
 
-![portfoliovite](https://github.com/user-attachments/assets/69c2061c-e8e3-4fe9-9304-9fa63710723c)
+![quiz](https://github.com/user-attachments/assets/bd4fdfa4-8db1-4d2f-8792-c3eb33ea5e25)
